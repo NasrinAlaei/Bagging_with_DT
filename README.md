@@ -6,3 +6,8 @@ Bagging on decision trees is done by creating bootstrap samples from the trainin
 DATASET:
 Sonar Dataset:
 https://datahub.io/machine-learning/sonar#resource-sonar_zip
+
+
+#machine_learning
+#Data_mining
+#Bagging
